@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":"73-93 Extendable White Kitchen Islands",
+        "price": 200,
+        "image": "images/Kitchen Islands.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Stainless Steel Kitchen Optional Sinks",
+        "price": 250,
+        "image": "images/Sinks.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Glass Patterns Metal Backsplash",
+        "price": 290,
+        "image": "images/Glass Patterns Metal Backsplash.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Matte Black Pull Down Kitchen Faucet ",
+        "price": 200,
+        "image": "images/Kitchen Sink Faucets.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Wood Top Rolling Kitchen Cart",
+        "price": 300,
+        "image": "images/Wood Top Rolling Kitchen Cart.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Shaped Kitchen Cabinets",
+        "price": 200,
+        "image": "images/Shaped Kitchen Cabinets.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Swivel Dual Spout Kitchen Faucet",
+        "price": 200,
+        "image": "images/Swivel Dual Spout Kitchen Faucet.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Beige  Backsplash ",
+        "price": 200,
+        "image": "images/Beige Design Backsplash.jpg"
+    }
+]

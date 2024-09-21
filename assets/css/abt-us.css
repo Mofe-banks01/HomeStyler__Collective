@@ -1,0 +1,160 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+img{
+    width: 380px;   
+    height: 250px;
+}
+
+.big-product{
+    width: 90%;
+    margin: 100px auto;
+}
+.big-product .product-title{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.big-product .product-title p{
+    margin-bottom: 2px;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.big-product .product-title h2{
+    font-weight: 600;
+}
+.big-product .product-title hr{
+    width: 120px;
+    margin: 14px auto;
+    background: gray;
+}
+.big-product .product-flex{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.product-flex .product-one{
+    width: 24%;
+    margin-bottom: 20px;
+}
+.product-flex .product-one img{
+    width: 100%;
+}
+.product-flex .product-one .product-image{
+    position: relative;
+}
+.product-one .product-image .overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity .4s ease-in-out;
+}
+
+.product-image .overlay i{
+    margin: 0px 5px;
+    padding: 5px;
+    border: 1px solid #000;
+    font-size: 13px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+
+.product-one:hover .product-image .overlay h3{
+    animation: product_icon .9s ease-in-out forwards;
+    font-size: 20px;
+    /* margin-bottom: 30px; */
+}
+
+.product-one:hover .product-image .overlay p {
+    font-size: 14px;
+    margin-bottom: 30px; 
+}
+.product-one:hover .product-image .overlay i {
+    margin-right: 8px; /* Adds space between icon and text */
+    font-size: 16px;    /* Adjusts icon size */
+}
+
+
+.product-one:hover .overlay{
+    opacity: 1;
+}
+
+.product-one .product-image{
+    margin-bottom: 15px;
+}
+
+@keyframes product_icon {
+    0%{
+        opacity: 0;
+        margin-bottom: 50px;
+    }
+    100%{
+        opacity: 1;
+        margin-bottom: 0px;
+    }
+}
+
+.product-one .content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 7px;
+}
+
+.product-one .content h4{
+    margin: 0;
+    font-weight: 600;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+.product-one .content section{
+    font-size: 14px;
+    font-weight: 600;
+}
+.product-one article{
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+/* media  */
+
+@media(max-width: 991px){
+    .big-product .product-one{
+        width: 32%;
+    }
+}
+
+@media(max-width: 768px){
+    .big-product .product-one{
+        width: 49%;
+    }
+}
+
+@media(max-width: 576px){
+    .big-product .product-one{
+        width: 100%;
+    }
+    .big-product .product-title h2{
+        font-size: 19px;
+    }
+    .big-product .product-title hr{
+        width: 100px;
+    }
+}

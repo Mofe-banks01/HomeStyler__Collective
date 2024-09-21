@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":" Curtains",
+        "price": 200,
+        "image": "images/Curtains.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Cushion",
+        "price": 250,
+        "image": "images/cushion.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Mirror",
+        "price": 290,
+        "image": "images/mirror.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Flower Vase",
+        "price": 200,
+        "image": "images/product1.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Vase",
+        "price": 300,
+        "image": "images/product5.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Wall art ",
+        "price": 200,
+        "image": "images/wall art.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Plant Pots",
+        "price": 200,
+        "image": "images/Plant Pots.jpg"
+    },
+    {
+        "id": 8,
+        "name":"Rugs",
+        "price": 200,
+        "image": "images/Rugs.jpg"
+    }
+]

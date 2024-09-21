@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":"Lockable Medicine Cabinet ",
+        "price": 200,
+        "image": "images/medicine.jpg"
+        },
+    {
+        "id": 2,
+        "name":" Wall Mount Exposed Thermostatic Shower ",
+        "price": 250,
+        "image": "images/Wall Mount Exposed Thermostatic Shower.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Asymmetrical Bathroom Wooden Frame Mirror",
+        "price": 290,
+        "image": "images/Asymmetrical Wooden Frame Mirror.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Brass Full  Mirror",
+        "price": 200,
+        "image": "images/Brass Full Length Floor Mirror.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Washbasin Black vessel",
+        "price": 300,
+        "image": "images/Washbasin Black vessel.Jpg"
+    },
+    {
+        "id": 6,
+        "name":" Freestanding Soaking Bathtub ",
+        "price": 200,
+        "image": "images/battub.jpg"
+    },
+    {
+        "id": 7,
+        "name":"Large Irregular Unique Mirror",
+        "price": 200,
+        "image": "images/irregular Mirror.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Toilet",
+        "price": 200,
+        "image": "images/toilet.jpg"
+    }
+
+]

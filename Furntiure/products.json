@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":" Iron and Stone Table Glam Style Home Rectangular",
+        "price": 200,
+        "image": "images/Dining table.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Volore 72.5 Gray Upholstered Sofa 3-Seaters ",
+        "price": 250,
+        "image": "images/Couches.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Chairs",
+        "price": 290,
+        "image": "images/Chairs.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Jeannie Contemporary Fabric 3 Seater Sofa-Navy Blue",
+        "price": 200,
+        "image": "images/sofa.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Recliners",
+        "price": 300,
+        "image": "images/Recliners.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Bed",
+        "price": 200,
+        "image": "images/Bed.jpg"
+    },
+    {
+        "id": 7,
+        "name":"Sleek Recliner chair ",
+        "price": 200,
+        "image": "images/Sleek Recliner chair.jpg"
+    },
+    {
+        "id": 8,
+        "name":"Wooden Shelves",
+        "price": 200,
+        "image": "images/Wooden Hexagon Floating Shelves Wall.jpg"
+    }
+]

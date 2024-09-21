@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":" Celing Light",
+        "price": 200,
+        "image": "images/celing light.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Wall Light",
+        "price": 250,
+        "image": "images/wall lights.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Outdoor Lighting",
+        "price": 290,
+        "image": "images/Outdoor Lighting.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Table Lamp",
+        "price": 200,
+        "image": "images/Table Lamp.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Decorative Next Brown Brompton",
+        "price": 300,
+        "image": "images/table lamp2.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Waterproof  Solar Fence Post Lights",
+        "price": 200,
+        "image": "images/Waterproof Black Modern Solar Fence Post Lights.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Radar induction wall light",
+        "price": 200,
+        "image": "images/Radar induction wall light.jpg"
+    },
+    {
+        "id": 8,
+        "name":" 45cm Led Ceiling Light",
+        "price": 200,
+        "image": "images/45cm Led Ceiling Light.jpg"
+    }
+]
